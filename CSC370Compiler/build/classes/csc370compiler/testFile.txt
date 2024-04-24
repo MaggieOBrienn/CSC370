@@ -1,0 +1,6 @@
+apples=10
+bananas=4
+oranges=12
+fruit=apples+bananas+oranges
+each=fruit/3
+more=each*7

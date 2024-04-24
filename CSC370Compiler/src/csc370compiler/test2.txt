@@ -1,0 +1,4 @@
+t=7
+var=3*9
+final=w+var-7/t
+count=final+1

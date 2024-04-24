@@ -1,0 +1,3 @@
+x=5
+var=36/9
+final=w+var-7*x
